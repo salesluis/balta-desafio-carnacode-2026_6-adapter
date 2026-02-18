@@ -1,4 +1,4 @@
-![ES-1](https://github.com/user-attachments/assets/50ceb623-b073-4344-ad6e-7435d714623a)
+'![ES-1](https://github.com/user-attachments/assets/50ceb623-b073-4344-ad6e-7435d714623a)
 
 ## 🥁 CarnaCode 2026 - Desafio 06 - Adapter
 
