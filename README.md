@@ -14,6 +14,8 @@ Neste processo eu aprendi:
 * ✅ SOLID
 * ✅ Design Patterns (Padrões de Projeto)
 
+<img width="636" height="417" alt="image" src="https://github.com/user-attachments/assets/5e24a0d0-135d-4563-8ad9-13db1576f42d" />
+
 ## Problema
 Um e-commerce moderno precisa integrar com um sistema legado de processamento de pagamentos que usa interfaces e estruturas de dados incompatíveis com o sistema atual.
 O código atual não consegue usar o sistema legado sem grandes mudanças na aplicação.
